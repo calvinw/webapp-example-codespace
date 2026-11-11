@@ -88,7 +88,7 @@ function App() {
 
         <button
           onClick={reset}
-          className="mt-4 w-full rounded-lg bg-green-600 px-5 py-2.5 font-medium text-white shadow transition hover:bg-green-500 active:scale-95"
+          className="mt-4 w-full rounded-lg bg-red-600 px-5 py-2.5 font-medium text-white shadow transition hover:bg-red-500 active:scale-95"
         >
           Reset
         </button>
